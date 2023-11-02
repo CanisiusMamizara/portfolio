@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Nom de la police';
+    src: url('Poppins/Poppins-BoldItalic.ttf') format('ttf'),
+         url('Poppins/Poppins-ExtraBoldItalic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
